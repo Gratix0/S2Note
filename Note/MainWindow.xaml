@@ -29,11 +29,14 @@
             </Border.Effect>
             <StackPanel>
                 <TextBlock Text="Ваши заметочки!" FontSize="30" FontWeight="Bold" Width="250"/>
-                <Grid Margin="0 0 0 20">
-
+                <TextBox x:Name="NameNoteBox" FontSize="20" materialDesign:HintAssist.Hint="Введите название заметки" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                <TextBox x:Name="DescriptionBox" FontSize="20" materialDesign:HintAssist.Hint="Введите содержание заметки" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                <Grid Margin="10 20 10 20">
+                    <Button HorizontalAlignment="Left" Content="Создать запись" Click="Button_Click"></Button>
+                    <Button HorizontalAlignment="Center" Content="Сохранить запись" Style="{StaticResource MaterialDesignFlatButton}"></Button>
+                    <Button HorizontalAlignment="Right" Content="Удалитть запись" Style="{StaticResource MaterialDesignFlatButton}"></Button>
                 </Grid>
-                <TextBox FontSize="20" materialDesign:HintAssist.Hint="Введите название заметки" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
-                <TextBox FontSize="20" materialDesign:HintAssist.Hint="Введите содержание заметки" Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                <ListBox x:Name="Zametki" Width="500" Height="200" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="3" Grid.RowSpan="4" SelectionChanged="Zametki_SelectionChanged"></ListBox>
             </StackPanel>
 
         </Border>
