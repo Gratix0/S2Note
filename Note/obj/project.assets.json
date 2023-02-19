@@ -157,11 +157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ogani\\source\\repos\\Note\\Note\\Note.csproj",
+      "projectUniqueName": "D:\\Repositories\\S2Note\\Note\\Note.csproj",
       "projectName": "Note",
-      "projectPath": "C:\\Users\\ogani\\source\\repos\\Note\\Note\\Note.csproj",
+      "projectPath": "D:\\Repositories\\S2Note\\Note\\Note.csproj",
       "packagesPath": "C:\\Users\\ogani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ogani\\source\\repos\\Note\\Note\\obj\\",
+      "outputPath": "D:\\Repositories\\S2Note\\Note\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eHxjinBsGgECkWVXNWsYn9FeN09FiVOd/FZbYbgQ3RfAM1pYHEaL68lNt48DVg5pfNXyDxL59AKyRdhWV3XAMw==",
+  "dgSpecHash": "hGc4ebd8XZwAjTR75p5bYoI4Ty/0baVBT2Q1phBVCwvgAbE129aBL4WO0HbcytOrfjMhffKLVNZo4SeeLalCxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ogani\\source\\repos\\Note\\Note\\Note.csproj",
+  "projectFilePath": "D:\\Repositories\\S2Note\\Note\\Note.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ogani\\.nuget\\packages\\materialdesigncolors\\2.1.1\\materialdesigncolors.2.1.1.nupkg.sha512",
     "C:\\Users\\ogani\\.nuget\\packages\\materialdesignthemes\\4.7.1\\materialdesignthemes.4.7.1.nupkg.sha512",
