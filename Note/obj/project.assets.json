@@ -201,9 +201,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\S2Note\\Note\\Note.csproj",
-      "projectName": "Note",
-      "projectPath": "D:\\Repositories\\S2Note\\Note\\Note.csproj",
+      "projectUniqueName": "D:\\Repositories\\S2Note\\Note\\NoteE.csproj",
+      "projectName": "NoteE",
+      "projectPath": "D:\\Repositories\\S2Note\\Note\\NoteE.csproj",
       "packagesPath": "C:\\Users\\ogani\\.nuget\\packages\\",
       "outputPath": "D:\\Repositories\\S2Note\\Note\\obj\\",
       "projectStyle": "PackageReference",

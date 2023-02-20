@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Note
+namespace NoteE
 {
     internal class JsonSer
     {
